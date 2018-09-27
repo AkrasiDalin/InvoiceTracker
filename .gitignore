@@ -1,2 +1,4 @@
+.nyc_output
 details.txt
 node_modules/
+coverage/
